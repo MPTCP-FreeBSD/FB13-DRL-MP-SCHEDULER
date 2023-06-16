@@ -1,0 +1,2 @@
+add fwd 172.16.3.1 tcp from 172.16.3.2 to any
+add fwd 172.16.4.1 tcp from 172.16.4.2 to any

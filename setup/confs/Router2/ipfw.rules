@@ -1,0 +1,5 @@
+add pipe 1 ip from any to any out via em1
+add pipe 2 ip from any to any in via em1
+pipe 1 config bw 2Mbit/s
+pipe 2 config bw 2Mbit/s
+

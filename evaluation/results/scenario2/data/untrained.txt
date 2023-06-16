@@ -1,0 +1,31 @@
+Executing rsync on Host1 - 1/10
+100M.file
+    104,857,600 100%  364.71kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 2/10
+100M.file
+    104,857,600 100%  365.02kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 3/10
+100M.file
+    104,857,600 100%  364.54kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 4/10
+100M.file
+    104,857,600 100%  364.53kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 5/10
+100M.file
+    104,857,600 100%  364.00kB/s    0:04:41 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 6/10
+100M.file
+    104,857,600 100%  364.80kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 7/10
+100M.file
+    104,857,600 100%  363.65kB/s    0:04:41 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 8/10
+100M.file
+    104,857,600 100%  364.69kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 9/10
+100M.file
+    104,857,600 100%  364.38kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Executing rsync on Host1 - 10/10
+100M.file
+    104,857,600 100%  365.37kB/s    0:04:40 (xfr#1, to-chk=0/1)
+Evaluate complete
