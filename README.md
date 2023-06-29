@@ -76,10 +76,10 @@ from syscalls import *
 ```
 
 ## Offline Learning
-
+This folder contains the scripts and data for performing offline training against each scenario, along with federated learning using offline data. A copy of the trained models used for evaluation is also included.
 
 ## Online Learning
-
+This folder contains the scripts used for performing online training of the scheduler model. A copy of the trained models used for evaluation is also included.
 
 ## Setup
 This folder cotains scripts and configurations files for setting up the test environment.
